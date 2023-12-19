@@ -5,13 +5,8 @@ Abstract: Since higher-order tensors are naturally suitable for representing mul
 **Citation**
 
 @ARTICLE{LRTFR,
-
 author={Luo, Yisi and Zhao, Xile and Li, Zhemin and Ng, Michael K. and Meng, Deyu},
-
 journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-
 title={Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery}, 
-
-year={2023},
-
+year={2023},\\
 doi={10.1109/TPAMI.2023.3341688}}
